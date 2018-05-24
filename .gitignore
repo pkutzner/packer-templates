@@ -1,5 +1,6 @@
 *.box
 .bundle/
 .vagrant/
+.nobackup
 output-*/
 packer_cache/
